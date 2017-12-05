@@ -10,7 +10,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
         <link rel="manifest" href="site.webmanifest">
-        <link rel="apple-touch-icon" href="icon.png">
         <!-- Place favicon.ico in the root directory -->
 
         <link rel="stylesheet" href="css/main.css">
@@ -22,11 +21,11 @@
 
         <!-- Add your site or application content here -->
         <nav id="navbar">
-            <h1><a href="index.html" >UVA Free and For Sale</a></h1><div class="wrap">
+            <h1><a href="index.php" >UVA Free and For Sale</a></h1><div class="wrap">
                <div class="search">
                     <label for = "search">
                         <input type="text" class="searchTerm" placeholder="What are you looking for?"><button type="submit" class="searchButton" style="height: 32px">
-                        <i class="fa fa-search"></i>
+                        <a href="./search.php"><i class="fa fa-search"></i></a>
                         </button>
                     </label>
                </div>

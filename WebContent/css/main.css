@@ -230,7 +230,7 @@ nav .wrap{
     min-height:100vh;
     display: inline-block;
     vertical-align: top;
-    padding-top: 73px;
+    padding-top: 200px;
 }
 
 
@@ -260,6 +260,7 @@ a:hover{
 .card-info{
     display: inline-block;
     margin-left: 20px;
+    color:black;
 }
 
 /**********************************LOGIN***************************************/
